@@ -1,7 +1,7 @@
 baseURL = "$HUGO_BASEURL"
 title = "Art website"
 # disableKinds = ["page", "section", "taxonomy", "term"]
-theme = "calina"
+theme = "razvan"
 timeout = 60000
 
 paginate = 3
