@@ -3,74 +3,30 @@ title: Biography
 layout: biography
 ---
 
-{{% hero side="left" asset="/uploads/artist-2020.jpg" title="Biography page of Calina Lefter" %}}
+{{% hero title="About Cristina Lefter" side="right" asset="/uploads/artist-cristina-lefter.jpg" %}}{{% /hero %}}
 
-> My art captures the atmosphere suspended between **reality and dream**, in an intimate and inner dimension that lives in our memory and expectation.It is not a flight from reality in the narrow sense, but the search for **a place of peace and tranquillity** in which we could lose and find ourselves and then look again at the many miracles that surround us.
+## Biography:
 
-\-- _Calina Lefter_
-{{% /hero %}}
+Cristina Lefter was born on April 27, 1976 in Telenesti in Moldavia. Since childhood she demonstrates one    great propensity and a sure interest in beauty. At 10 he attended a painting school, then the    Octav Bancila artistic high school in Iasi in Romania and the Academy of Fine Arts in the same city. With excellent    results, passes the selection and is admitted to the Union of Romanian Plastic Artists. In 2002, yes    he moved to Italy exhibiting his works in public spaces that were noticed by gallery owners (for example    Cappelletti and Obraz of Milan, Spagnoli of Florence) art enthusiasts and collectors. In 2015 he exhibited at    Romanian Pavilion of the International Universal Exposition of Milan, in Italy.
 
-## Biography
+## Dripping Technique
 
-Originally from Moldova, Calina studied Fine Art at “N.Grigorescu” Art University - Bucharest 2002. After her graduation she became a member of the Romanian Artists’ Union.
+I am not the first one to use enamel as a painting technique. Jackson Pollock was the first in the history of arts to use particular enamels and acrylic colours. His technique is called dripping and it is considered the most important example of gestural painting called “action painting”.
+With the canvas on the floor, horizontally, dripping the colours, Jackson Pollock used to create abstract paintings with a unique chromatic sensibility. The difference between him and me, although we use the same technique, is that I personalized it and took it to the figurative sphere: portraits, landscapes, dead nature and many others. I love these colours because, from a technical point of view, a true alchemy is created.
+Every single colour has its own personality: one needs a nitro thinner, another one wants the synthetic, and another one requires water or white-water and so on. If I would put a colour on another and the thinners were not compatible, the colours would eat each other and ruin my painting.
+The same thing would happen if I would not know how to measure out the thinner. I feel like a lion tamer with these colours. I ruined several paintings until I understood the character of every colour in order to domesticate them.
 
-In 2008 she settled in Milan and exhibited her work in various galleries and international events in Italy such as: “Expo Milano 2015” - Milan, “Affordable Art Fair 2013” - Milan, “After East” - Milan 2010 with Ion Grigorescu and other Romanian artists.
+## More about Cristina Lefter
 
-In 2016 she moved to the UK (Reading) and she became a member of “Reading Guild of Artists” in 2018.
+Born in Moldavia on the 27th of April 1976 under the Russian communist regime. Lefter began painting at the tender age of 5. At age 10 she attended a private art school and soon afterwards Lefter moved with her family to Bucharest Romania where she eventually acquired Romanian citizenship. She began an intensive study of art by enrolling at the Artistic Lyceum of Iasi in Romania and successfully being accepted into the Fine Arts Academy of Iasi. Lefter’s art school preparation formed a solid academic base. Her artistic values are instilled with a constant research for beauty, harmony, synergy and balance. Lefter passionately reflects on the idea of past and future as a means of comparison and contrast giving way to a spiritual interaction of respect for these intangible concepts. Painting and creating have always been gestures of liberation from the past while endorsing the future based on renewal as a possibility to instinctively reveal herself to her art public.
 
-Among the most important exhibitions:
+In 2000 Lefter became a member of the Union of Artists of Romania. The delima of being brought up in a dictatorial communist state even at the onset of the new millenium, put Lefter in contrast with decades of a mindset that didn’t fully comprehend the concept of complete individual artistic freedom and pluralism which Lefter so truly cherishes. In 2002 at the age of 25 she moved to Italy and chose the region of Veneto and used the occasion to settle in Padova where she felt a sentimental yearning to explore her Italian heritage. The overwhelming cultural patrimony of the Venetian region and Italy as a whole is a continual and inexhaustible source of inspiration for the artist. Cristina Lefter arrived in Milan in 2008 where she uses the capital of Lombardy as her home and artistic base and is a part of the city’s cultural community.
 
-1. sample
-1. sample
-1. sample
-1. sample
+Coloured enamels are highly preferred by Lefter because they represent a creative being while seemingly possessing a stand out chemical personality. Lefter is able to deftly control, mix and dominate various colours in an extremely convincing manner.
+The “dripping” process of Jackson Pollock’s abstract expressionism is interpreted in Cristina Lefter’s work as figurative “dripping”. The enamels that she uses, at first, drip slowly on the canvas in such an undefined way that they seem incomprehensible while in the meantime the materials take form and life in a spontaneous and continual mutation.
 
-- Public Art in The Plaza/Erftstadt Court - _Wokingham 2022_
-- Sense of Space 2022 - _South Hill Park Centre for the Arts_
-- Reading Charity art Fair 2021 - _Leighton Park_
-- Wokingham Arts Trail - 2021 - _Wokingham_
-- Cookham & Maidenhead Arts Trail 2021 - _Maidenhead_
-- Henley Arts Trail 2021 - _Henley on Thames_
-- Joint winner of Marie Dyson Award at Sir John Madejski Art Gallery, Reading Museum - 2019
-- Reading Guild of Artists’ (RGA) 89th Annual Exhibition - _Reading Museum 2019_
-- Henley Art Trail - _2019_
-- RGA Summer Show 2018 - _Reading University_
-- The Whiteknights Studio Trail 2018 - _Reading_
-- Parallax Art Fair 2017-2018 - _London_
-- The Annual Salon of UK-based Romanian Artists 2017 - _London_
+The canvas is horizontal and with a canister of colour in hand Lefter goes on the offensive. The artist is ready for ”action painting” that of the New York School in which Jackson Pollock was the master. This painting style free of any scheme, form or pre described model, immediate in its execution and spontaneous in its realisation yet manifesting forms of the human body. Colours can be laid out on the canvas in an exaggerated and disproportioned brush stroke movement or naively splashed or contrastingly laid on violently. This style of painting demands that the canvas is positioned horizontally whereas a vertical position can imply dynamism and movement. The implicit mood of caos is also perceived in her colour selections.
 
-More about Calina Lefter:
-
-- www.calinalefter.com
-- www.instagram.com/calinalefter
-
-Calina Lefter - _Reading, Berkshire - RG64, United Kingdom_
-
-{{% hero title="Diana Seidl at Marie Dyson award" side="left" asset="/uploads/colazione_artwork-by-calina-lefter_thumb.jpg" %}}
-At the opening of the [89th RGA Annual Exhibition](https://www.calinalefter.com/exhibitions/rga-89th-annual-exhibition/) at the Reading Museum, Diana Seidl offered the [MARIE DYSON Award](https://www.rga-artists.org.uk/marie-dyson-award.html) to Calina Lefter:
-
-> There is real vibrancy and personality in the way the paint has been applied. The artist displays strong control of the compositional elements of the picture - making it work as a whole. Also a great use of colour and texture in the paint. The inclusion of the birds is crucial as it makes a centre of focus and a different tempo in the painting.
-
-\-- _Diana Seidl - Reading Museum, 2019_
-{{% /hero %}}
-
-## Recensioni
-
-> Calina Lefter parte dalla visione realistica del paesaggio per creare mondi irreali tessuti con minuzia e costruiti, attraverso l’inserimento di materiali eterogenei, come minuscoli gioielli. I paesaggi - ora astratti, ora volutamente fedeli alla verità della natura – appaiono come meditate fughe che riproducono, grazie alla morbidezza della stoffa e alla delicatezza dei materiali, visioni di mondi lontani, placidi rifugi in cui è impossibile percepire la ruvidezza della realtà."
-
-\-- _Daniela Ambrosio about - Calina Lefter_
-
-## Alchimie tattili
-
-> Artist from the poetic and introspective vein, Calina Lefter takes inspiration from the real landscape view to create imaginary worlds of remarkable lyrical intensity, enriched by bright flashes and interesting polymateric contrasts.\
-> Her favourite subjects are natural landscapes of great breath captured in special moments of the day and witnesses of the progressive change of seasons, or still life, in home-made interiors of metaphysical imprint, where time seems so dilated to appear almost absent.Everything lies suspended between reality and dream, in an intimate and inner dimension that lives in memory and expectation.\
-> \
-> Observing her work carefully, she sees a material stratification, but also of slow, gradual, cured and methodical meaning, aimed at the ultimate achievement of a compositional harmony that can attract the spectator in a new and sensual context.It is difficult to resist the temptation to touch with the hand the tactile surfaces of her paintings: ripples of colour, dripping and a great variety of fabrics, now soft, now stiffer, now smooth and now perforated; these seem to wait for us to bring us back.\
-> \
-> I remember the feelings already experienced before.Dialogue between so many different materials is tight; a compositional game that reveals a lively and passionate experimentalism that leaves the free matter of expression through those properties that are their own. The artist seems to be orchestrating with tonal modulation mastery which, following each other, suggests a brilliant and well-calibrated rhythm made of long pauses and counterpoint. The large spots of colour, animated by innumerable colours, alternate with elements of their own specificity and careful detail, forcing the eye to follow an irregular path and to dwell on certain details and then, mentally, to rebuild their own; a vision that is not only the visual evidence suggested by the painter but a unique and personal vision.\
-> \
-> The titles of the works themselves, **"Drops of Stars", "Rain Today", "Waiting for Dinner" and "Winter Night"**, reveal this desire to stop a particular moment of your life, crystallize their moods and transpose on the canvas a feeling that can be captured and shared by others. They also reveal conflicting feelings: a delicate and enveloping melancholy, drained in the warm and bright vision of so many dear and beloved natural landscapes, where to refresh the mind tired of the afflictions of everyday life. \
-> \
-> It is not a flight from reality in the narrow sense, but the search for a place of peace and tranquillity in which we lose and find again, and then look again with the many miracles that surround us.
-
-\-- _Emanuela Rindi - Castelli Gallery, Milano, 2012_
+The incessant dribbling of colour crystallize into form while expressing Lefter’s spirit. The abstract expressionist drippings so representative of Jackson Pollock and the physicality of his “action painting” is a key component of the DNA of Cristina Lefter whose body gestures towards her canvases are actively instinctive but hardly casual. The results of this artistic passion demonstrates how her canvases are materially unique. Lefter’s color compositions reveal dazzling displays of perspective in landscapes, forests and metropolitan skylines.
+Cristina Lefter’s skill, competence and mastery of various painting techniques allows her to chose countless avenues of new artistic projects.
+Kevin McDonald

@@ -98,7 +98,24 @@ link = "https://www.instagram.com/cristina_lefter_artist/"
 # list = ["html", "json"]
 # single = ["html", "json"]
 
+
 [module]
+# [[module.mounts]]
+# # Workaround for https://github.com/gohugoio/hugo/issues/6945
+# source = "assets/scss/bootstrap/_vendor"
+# target = "assets/scss/bootstrap/vendor"
+[[module.imports]]
+path = "github.com/cromozooom/calina"
+[[module.imports.mounts]]
+source = "static"
+target = "static"
+[[module.imports.mounts]]
+source = "assets"
+target = "assets"
+[[module.imports.mounts]]
+source = "layouts"
+target = "layouts"
+
 [module.hugoVersion]
 extended = false
 min = "0.112.0"
@@ -108,18 +125,3 @@ target = "assets"
 [[module.mounts]]
 source = "hugo_stats.json"
 target = "assets/watching/hugo_stats.json"
-
-[build]
-writeStats = true
-[[build.cachebusters]]
-source = "assets/watching/hugo_stats\\.json"
-target = "styles\\.css"
-[[build.cachebusters]]
-source = "(postcss|tailwind)\\.config\\.js"
-target = "css"
-[[build.cachebusters]]
-source = "assets/.*\\.(js|ts|jsx|tsx)"
-target = "js"
-[[build.cachebusters]]
-source = "assets/.*\\.(.*)$"
-target = "$1"
