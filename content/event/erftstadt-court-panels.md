@@ -13,5 +13,3 @@ eventCategory: exhibition
 layout: event
 events: event
 ---
-
-{{% hero %}}{{% /hero %}}

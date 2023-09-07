@@ -13,7 +13,3 @@ link: "https//:www.solopx.com"
 place: Some place
 events: others
 ---
-
-{{% hero title="The Base's Festival of Art and Crafts" side="left" asset="/uploads/2007-giallo-sunflower-portrait-2.jpg" %}}
-We get it — you’ve got a blog post you’re dying to write but you can’t write it until you rebuild your personal site. We’ve got you covered, get back to writing.
-{{% /hero %}}
