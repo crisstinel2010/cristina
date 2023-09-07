@@ -1,1 +1,1 @@
-export const customBranch = 'deploy';
+export const customBranch = "deploy";
