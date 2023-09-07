@@ -107,15 +107,15 @@ link = "https://www.instagram.com/cristina_lefter_artist/"
 # target = "assets/scss/bootstrap/vendor"
 [[module.imports]]
 path = "github.com/cromozooom/calina"
-[[module.imports.mounts]]
-source = "static"
-target = "static"
-[[module.imports.mounts]]
-source = "assets"
-target = "assets"
-[[module.imports.mounts]]
-source = "layouts"
-target = "layouts"
+# [[module.imports.mounts]]
+# source = "static"
+# target = "static"
+# [[module.imports.mounts]]
+# source = "assets"
+# target = "assets"
+# [[module.imports.mounts]]
+# source = "layouts"
+# target = "layouts"
 
 [module.hugoVersion]
 extended = false
