@@ -3,6 +3,10 @@ title: Biography
 layout: biography
 ---
 
+{{% hero title="Dripping Technique" side="right" asset="/uploads/artist-cristina-lefter.jpg" %}}
+> I am not the first one to use enamel as a painting technique. Jackson Pollock was the first in the history of arts to use particular enamels and acrylic colours. 
+{{% /hero %}}
+
 ## Biography:
 
 Cristina Lefter was born on April 27, 1976 in Telenesti in Moldavia. Since
