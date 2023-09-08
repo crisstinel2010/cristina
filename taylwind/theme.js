@@ -136,10 +136,10 @@ const {
 // const neutralDark = slateDark;
 
 // Criss
-const brand = tomato;
-const brandDark = tomatoDark;
-const accent = orange;
-const accentDark = orangeDark;
+const brand = red;
+const brandDark = redDark;
+const accent = iris;
+const accentDark = irisDark;
 const neutral = slate;
 const neutralDark = slateDark;
 
